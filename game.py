@@ -190,8 +190,8 @@ class Wall:
 
 
 class Game:
-    font = pygame.font.Font('gomarice_no_continue.ttf', 64)
-    small_font = pygame.font.Font('gomarice_no_continue.ttf', 32)
+    font = pygame.font.Font('Main/gomarice_no_continue.ttf', 64)
+    small_font = pygame.font.Font('Main/gomarice_no_continue.ttf', 32)
     points = 0
     attempts = 0
 

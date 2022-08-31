@@ -1,7 +1,7 @@
 from setup import *
 from game import Game
 
-screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT), pygame.RESIZABLE)
+screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 delta = 1000/fps
 is_running = True
 
